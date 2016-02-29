@@ -22,7 +22,16 @@ public class Triangulo {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        
+        
+    }
+
+    public Triangulo(Punto p1, Punto p2, Punto p3, Color colorRelleno, Color colorLinea) {
+        this.p1 = p1;
+        this.p2 = p2;
+        this.p3 = p3;
+        this.colorRelleno = colorRelleno;
+        this.colorLinea = colorLinea;
     }
     
 }
