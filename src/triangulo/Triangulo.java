@@ -32,6 +32,7 @@ public class Triangulo {
         this.p3 = p3;
         this.colorRelleno = colorRelleno;
         this.colorLinea = colorLinea;
+        
     }
     
 }
